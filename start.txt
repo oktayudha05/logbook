@@ -1,0 +1,9 @@
+jalankan apach dan mysql terlebih dahulu
+// kemudian jalankan perintah berikut di terminal
+- git clone https://github.com/oktayudha05/laravel-logbook.git
+- cd laravel-logbook
+- composer install
+- php artisan key:generate
+- php artisan migrate
+- php artisan db:seed
+- php artisan serve
